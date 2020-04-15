@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "jdha-cv2", ".", "{94B12C02-209D-4002-B71E-EE1EDC07E4CB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54240"
+		Debug.AspNetCompiler.PhysicalPath = "..\jdha-cv2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54240\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54240"
+		Release.AspNetCompiler.PhysicalPath = "..\jdha-cv2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54240\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54240"
+		SlnRelativePath = "..\jdha-cv2\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B12C02-209D-4002-B71E-EE1EDC07E4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B12C02-209D-4002-B71E-EE1EDC07E4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E7CC832-D92D-4788-85AB-A01600AB70D9}
+	EndGlobalSection
+EndGlobal
